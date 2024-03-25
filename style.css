@@ -1,0 +1,114 @@
+body {
+  background-color: #d1d1d1; /* Light yellow background for the entire page */
+}
+
+.container {
+  margin: 0 auto;
+  width: 60%;
+  padding: 20px;
+  margin-top: 40px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #eafff7; /* White background for container */
+}
+
+/* Style for labels */
+label {
+
+  font-size: 22px;
+  display: block;
+  margin-bottom: 12px;
+
+
+
+  color: #333; /* Dark gray text color */
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Text shadow for better visibility */
+  font-family: Arial, sans-serif; /* Use a web-safe font */
+}
+
+/* Style for select elements */
+select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #cccccc; /* Light gray border */
+  border-radius: 4px;
+  background-color:white; /* White background */
+}
+
+/* Hover effect for select elements */
+select:hover {
+  border-color: #666666; /* Dark gray border color on hover */
+background-color: floralwhite;
+}
+
+/* Style for the IFSC code display */
+#printifsc {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #00008b; /* Dark blue IFSC code */
+  text-align: center; /* Center-align the text */
+  font-size: 33px;
+}
+/* CSS for header */
+/* CSS for header */
+/* CSS for header */
+/* CSS for header */
+h1 {
+  text-align: center; /* Center-align the text */
+  margin-top: 70px; /* Adjust top margin as needed */
+  margin-bottom: 30px; /* Adjust bottom margin as needed */
+  color: #2874f0; /* Turquoise text color */
+  font-size: 48px; /* Adjust font size as needed */
+  font-family: 'Roboto', sans-serif; /* Use a modern, sans-serif font */
+  text-transform: uppercase; /* Uppercase text */
+  letter-spacing: 2px; /* Add letter spacing for better readability */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Text shadow for better visibility */
+}
+
+/* Additional styling for hover effect on header */
+h1:hover {
+  color: #16a085; /* Darker turquoise text color on hover */
+}
+
+#or{
+  margin-top: 30px;
+
+  color: red;
+  text-align: center; /* Center-align the text */
+
+  margin-bottom: 30px; /* Adjust bottom margin as needed */
+  
+  font-size: 30px; /* Adjust font size as needed */
+  font-family: 'Roboto', sans-serif; /* Use a modern, sans-serif font */
+  text-transform: uppercase; /* Uppercase text */
+  letter-spacing: 2px; /* Add letter spacing for better readability */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Text shadow for better visibility */
+}
+
+
+#ornextline{
+  margin-top: 30px;
+}
+
+#btn a{
+
+  font-size: 35px;
+  margin-left: 1px;
+  border-radius: 6px;
+  
+  background-color: antiquewhite;
+}
+
+#btn a:hover{
+  color: red;
+  cursor: pointer;
+
+}
+
+a{
+color: black;
+text-decoration: none;
+}
